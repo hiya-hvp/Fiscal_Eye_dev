@@ -8,7 +8,7 @@ import Alerts from "./pages/Alerts";
 import AuditTrail from "./pages/AuditTrail";
 import Assistant from "./pages/Assistant";
 import Settings from "./pages/Settings";
-
+// this is the App.jsx
 export default function App() {
   return (
     <BrowserRouter>
